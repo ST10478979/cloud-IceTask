@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dmlpgzUQ/g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prana\\OneDrive\\Documents\\vsProjects\\MechanicShopp\\MechanicShopp\\MechanicShopp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prana\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.5\\microsoft.entityframeworkcore.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prana\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.5\\microsoft.entityframeworkcore.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Prana\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.5\\microsoft.entityframeworkcore.analyzers.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+﻿
+using MechanicShopp.Models;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+
+namespace MechanicShopp.Controllers
+{
+    public class CustomersController : Controller
+    {
+        private static List<Customer> _customers = new List<Customer>();
+
+        public IActionResult Index()
+        {
+            return View(_customers);
+        }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Customer customer)
+        {
+            if (ModelState.IsValid)
+            {
+                customer.Id = _customers.Count + 1;
+                _customers.Add(customer);
+                return RedirectToAction("Index");
+            }
+
+            return View(customer);
+        }
+    }
+}
