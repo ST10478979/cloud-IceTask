@@ -1,5 +1,4 @@
-﻿
-using MechanicShopp.Models;
+﻿using MechanicShopp.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace MechanicShop.DB

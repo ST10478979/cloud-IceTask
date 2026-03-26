@@ -1,3 +1,6 @@
+using MechanicShop.DB;
+using Microsoft.EntityFrameworkCore;
+
 namespace MechanicShopp
 {
     public class Program
@@ -8,6 +11,7 @@ namespace MechanicShopp
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ApplicationDbContext") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContext' not found.")));
 
             var app = builder.Build();
 

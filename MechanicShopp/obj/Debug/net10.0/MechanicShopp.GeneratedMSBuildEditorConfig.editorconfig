@@ -1,111 +1,119 @@
 is_global = true
 build_property.TargetFramework = net10.0
-build_property.TargetFrameworkIdentifier = .NETCoreApp
-build_property.TargetFrameworkVersion = v10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = MechanicShopp
 build_property.RootNamespace = MechanicShopp
-build_property.ProjectDir = C:\Users\Prana\OneDrive\Documents\vsProjects\MechanicShopp\MechanicShopp\
+build_property.ProjectDir = C:\Users\hewit\Documents\GitHub\cloud-IceTask\MechanicShopp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Prana\OneDrive\Documents\vsProjects\MechanicShopp\MechanicShopp
+build_property.MSBuildProjectDirectory = C:\Users\hewit\Documents\GitHub\cloud-IceTask\MechanicShopp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Cars/Create.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Cars/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Cars/Delete.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Cars/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Cars/Details.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Cars/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Cars/Edit.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Cars/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Cars/Index.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Cars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Customers/Create.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Customers/Delete.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Customers/Details.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Customers/Edit.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Customers/Index.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Home/Index.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Home/Privacy.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Services/Create.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Services/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Services/Delete.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Services/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Services/Details.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Services/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Services/Edit.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Services/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Services/Index.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Shared/Error.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/_ViewImports.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/_ViewStart.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prana/OneDrive/Documents/vsProjects/MechanicShopp/MechanicShopp/Views/Shared/_Layout.cshtml]
+[C:/Users/hewit/Documents/GitHub/cloud-IceTask/MechanicShopp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1g98j2ti8q
